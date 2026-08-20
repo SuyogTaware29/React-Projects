@@ -88,13 +88,6 @@ Perfect for my quest to master React fundamentals, learn component architecture,
 - [Node.js](https://nodejs.org/) (v18 or higher)
 - [Git](https://git-scm.com/)
 
-### Clone and Run
-
-```bash
-git clone https://github.com/yourusername/3-react-projects.git
-cd 3-react-projects
-```
-
 ### Running Each Project
 
 Each project is in its own directory and can be run independently:
